@@ -1,4 +1,5 @@
 # vue-chat
+# See [Live Demo](https://vue-firebase-chat-01.web.app/).
 
 ## Project setup
 ```
