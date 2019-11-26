@@ -1,0 +1,26 @@
+[debug] [2019-11-26T15:46:00.071Z] ----------------------------------------------------------------------
+[debug] [2019-11-26T15:46:00.073Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\maxby\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-11-26T15:46:00.073Z] CLI Version:   7.8.1
+[debug] [2019-11-26T15:46:00.073Z] Platform:      win32
+[debug] [2019-11-26T15:46:00.074Z] Node Version:  v12.13.1
+[debug] [2019-11-26T15:46:00.074Z] Time:          Tue Nov 26 2019 18:46:00 GMT+0300 (Moscow Standard Time)
+[debug] [2019-11-26T15:46:00.075Z] ----------------------------------------------------------------------
+[debug] [2019-11-26T15:46:00.075Z] 
+[debug] [2019-11-26T15:46:00.082Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-11-26T15:46:00.083Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\DEV\vue-chat\vue-chat
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+  * You are initializing in an existing Firebase project directory
+

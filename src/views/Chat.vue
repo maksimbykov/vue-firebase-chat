@@ -23,8 +23,8 @@
 </template>
 
 <script>
-import CreateMessage from '@/Components/CreateMessage'
-import fb from '@/firebase/init';
+import CreateMessage from '../components/CreateMesage';
+import fb from '../firebase/init';
 import moment from 'moment';
 
 export default {
@@ -65,6 +65,21 @@ export default {
 }
 
 .chat h5 {
-    
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+
+.chat span{
+    font-size: 1.2em;
+}
+
+.chat .time {
+    display: block;
+    font-size: 0.7em;
+}
+
+.messages {
+    max-height: 300px;
+    overflow: auto;
 }
 </style>
